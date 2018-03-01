@@ -13,12 +13,4 @@ def key_for_min_value(name_hash)
     end
     return answerKey
   end
-  #
-  # num = name_hash.first
-  # return num
-  # name_hash.each_value do |value|
-  #   return num
-  #
-  #
-  # end
 end
