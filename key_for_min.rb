@@ -9,10 +9,9 @@ def key_for_min_value(name_hash)
       if value < smallestValue
         answerKey = key
         smallestValue = value
-
       end
-
     end
+    return answerKey
   end
   #
   # num = name_hash.first
