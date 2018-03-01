@@ -3,9 +3,9 @@
 
 def key_for_min_value(name_hash)
   if name_hash.length > 0
-    num = name_hash.first.[0]
+    num = name_hash.first[0]
   end
-  # 
+  #
   # num = name_hash.first
   # return num
   # name_hash.each_value do |value|
