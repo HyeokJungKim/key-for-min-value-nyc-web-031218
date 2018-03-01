@@ -3,7 +3,8 @@
 
 def key_for_min_value(name_hash)
   if name_hash.length > 0
-    nam = name_hash.first[0]
+    name = name_hash.first[0]
+    
   end
   #
   # num = name_hash.first
